@@ -16,7 +16,7 @@
 ### 2.1 克隆项目
 
 ```bash
-git clone https://github.com/yourname/caps-auto-trigger.git
+git clone https://github.com/mengbin92/caps-auto-trigger.git
 cd caps-auto-trigger
 ```
 
