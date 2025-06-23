@@ -1,0 +1,13 @@
+time_ranges:
+  - start: 09:30
+    end: 12:00
+  - start: 13:30
+    end: 19:00
+
+log:
+  level: info
+  name: caps-auto-trigger.log
+
+ticker: 60
+
+daemon: true
